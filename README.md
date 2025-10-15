@@ -1,4 +1,4 @@
-## 📊 GitHub Stats for joon6390
+## 📊 GitHub Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joon6390&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
