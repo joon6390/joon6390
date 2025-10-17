@@ -15,9 +15,4 @@
 ### 🗣️ Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joon6390&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 🏆 Full Contribution Metrics (All Activity Included)  
-![Metrics](https://metrics.lecoq.io/joon6390?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.sections=most-used&languages.indepth=true&languages.analysis=percentage&languages.categories=markup,programming&achievements=1&achievements.threshold=B&achievements.display=detailed&achievements.secrets=true&notable=1&lines=1&followup=1&config.timezone=Asia%2FSeoul)
-
 </div>
