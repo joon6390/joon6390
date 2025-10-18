@@ -2,11 +2,6 @@
 
 <div align="center">
 
-### 🧠 Overall Performance  
-![Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=joon6390&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60&v=20251018_2)
-
----
-
 ### 🔥 Current Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=joon6390&theme=radical&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
